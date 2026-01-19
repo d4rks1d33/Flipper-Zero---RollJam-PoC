@@ -78,7 +78,7 @@ It only models the **state transitions and timing logic** for research purposes.
 Each phase is represented visually on the Flipper Zero display, matching real-world attack research flows without executing RF actions.
 
 ## 📺 User Interface
-**The UI mimics real research tools and displays:**
+**The UI displays:**
 
 Frequency
 
