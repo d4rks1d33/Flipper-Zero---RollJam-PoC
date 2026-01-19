@@ -1,0 +1,7 @@
+App(
+    appid="rolljam_research",
+    name="RollJam Research",
+    entry_point="rolljam_app",
+    flags=APP_FLAG_DEFAULT,
+    stack_size=4096,
+)
